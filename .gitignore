@@ -18,3 +18,6 @@ doc/
 .DS_Store
 .idea
 .secret
+.bundler_stubs/
+# Ignore bundler config.
+/.bundle
